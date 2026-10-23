@@ -29,7 +29,7 @@ ROWS = [
     ("stack", "Python  ·  TypeScript  ·  Go  ·  Java"),
     ("pinned", "CoachMe  ·  ConNET  ·  FinSight  ·  IMBD"),
     ("also", "Trustabl  ·  cursor-boston  ·  CertForge"),
-    ("site", "paramjeetsingh.me"),
+    ("site", "paramjeet-singh-neu.github.io"),
     ("repos", "34 public"),
 ]
 
